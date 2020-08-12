@@ -1,0 +1,56 @@
+.headings {
+  position: relative;
+  top: 70px;
+  line-height: 2;
+  text-align: center;
+  width: 296px;
+  display: inline-block;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin: 2px;
+  background-color: yellow;
+}
+
+body {
+  background-image: linear-gradient(
+    to right,
+    #ff33ff,
+    #e829fa,
+    #d120f6,
+    #b918f0,
+    #9f12eb
+  );
+}
+
+.tacimg {
+  position: relative;
+  top: 110px;
+  left: 2px;
+}
+
+.terry {
+  position: relative;
+  top: -165px;
+  left: 90px;
+  line-height: 1.7;
+  font-weight: bold;
+  text-align: center;
+  width: 260px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background-color: yellow;
+}
+
+.pretty {
+  position: relative;
+  top: -135px;
+  left: 90px;
+  line-height: 1.5;
+  font-weight: bold;
+  text-align: center;
+  width: 140px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  background-color: yellow;
+}
